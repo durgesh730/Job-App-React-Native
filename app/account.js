@@ -10,11 +10,9 @@ const account = () => {
     return (
         <View>
             <Navbar />
-
             <Text>
                 Account
             </Text>
-
             <Footer isActive={isActive} setIsActive={setIsActive} />
         </View>
     )

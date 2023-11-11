@@ -30,8 +30,8 @@ const register = () => {
                 <Text style={{ fontSize: 40, color: "#1F41BB" }} className='font-semibold' >Create Account</Text>
 
                 <View style={{ paddingTop: "5%", alignItems: "center" }} >
-                    <Text style={{ fontSize: 20 }}  >Create an account so you can explore all the</Text>
-                    <Text style={{ fontSize: 20 }} > existing jobs</Text>
+                    <Text style={{ fontSize: 20 }}  >Create an account so you can explore</Text>
+                    <Text style={{ fontSize: 20 }} > all the existing jobs</Text>
                 </View>
             </View>
 
